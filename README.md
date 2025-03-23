@@ -4,11 +4,11 @@ This repo contains a binary counter system implemented using the NIOS II process
 
 # Activity Steps
 
-1. Fork this repository
-2. Update remote origin information
-3. Complete the exception handler file and commit the changes to both local and remote branch
-4. Create a branch and change the base address for the LEDS. Propagate this change in all required files
-5. Make a change in main branch and push to remote
+1. Fork this repository.
+2. Setup the NIOS II system locally.
+3. Make and commit a change in both local and remote main branches
+4. Create a feature branch and change the base address for the LEDS. Propagate this change in all required files
+5. Make a change in main branch and push to remote. This will helps us illustrate a merge conflict
 6. Go back to branch, push to remote, and initiate pull request
 7. Solve merge conflict in local branch and update pull request
-8. Code review and accept/merge changes to main branch
+8. Accept/merge changes to main branch (we are skipping the code review process)
